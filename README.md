@@ -29,6 +29,4 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 
 ☁️ WebApps
 
-🚀 DevOps practices
-
 ---
