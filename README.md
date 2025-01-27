@@ -27,8 +27,8 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 
 ## Interests
 
-🛠️ Containerized applications (Docker, Kubernetes)
-☁️ WebApps
+🛠️ Containerized applications (Docker, Kubernetes) \n
+☁️ WebApps \n
 🚀 DevOps practices
 
 ---
