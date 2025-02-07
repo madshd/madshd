@@ -21,7 +21,7 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 
 ## Skills
 
-💻 **Programming Languages:** Java, SQL
+💻 **Programming Languages:** Java, SQL, JavaScript, CSS, HTML
 
 ## Interests
 
