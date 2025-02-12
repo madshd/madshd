@@ -24,4 +24,3 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 💻 **Programming Languages:** Java, SQL, JavaScript, CSS, HTML
 
 🛠️ **Frameworks and tools:** Spring Boot, Vaadin, JPA, Hibernate, React.JS, Docker
----
