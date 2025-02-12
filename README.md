@@ -21,7 +21,7 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 
 ## Skills
 
-💻 **Programming Languages:** Java, SQL, JavaScript, CSS, HTML
+💻 **Programming Languages:** Java, SQL, JavaScript, CSS, HTML \n
 🛠️ **Frameworks:** Spring Boot, Vaadin, JPA, Hibernate, React.JS
 
 ## Interests
