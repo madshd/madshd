@@ -23,12 +23,5 @@ I'm a Computer Science student currently working towards my AP Degree in Aarhus,
 
 💻 **Programming Languages:** Java, SQL, JavaScript, CSS, HTML
 
-🛠️ **Frameworks:** Spring Boot, Vaadin, JPA, Hibernate, React.JS
-
-## Interests
-
-🛠️ Containerized applications (Docker, Kubernetes)
-
-☁️ WebApps
-
+🛠️ **Frameworks and tools:** Spring Boot, Vaadin, JPA, Hibernate, React.JS, Docker
 ---
