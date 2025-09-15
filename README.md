@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi there 👋
 
 I'm a Computer Science student currently working towards my AP Degree in Aarhus, Denmark. I'm passionate about technology and eager to learn new things.
